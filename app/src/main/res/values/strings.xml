@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="myInto">Education: Faculty of Engineering, Port Said University, Electrical Power Engineering Department
+Occupation: Student and Milk Shop Worker
+Skill: Currently enrolled in an app development course with Road Masr Elraqamya
+Goals:
+Eager to gain expertise in app development.
+Aspiring to work in the field of electrical power engineering.\n</string>
+    <string name="age">19</string>
+    <string name="jopTitle">App developer,Electrical Power Engineer</string>
+    <string name="adress">Egypt,PortSaid,PortFouad,MohamedAli,Flat num 70</string>
+    <string name="name">Abd_Elrahman Taher</string>
+    <string name="toast">show Toast</string>
+</resources>
